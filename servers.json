@@ -1,7 +1,7 @@
 {
-  "updated_at": 1771063463266,
-  "updated_iso": "2026-02-14T13:04:23.266482",
-  "count": 53,
+  "updated_at": 1771063847141,
+  "updated_iso": "2026-02-14T13:10:47.141164",
+  "count": 56,
   "servers": [
     {
       "id": "7496f7a1-454a-4091-a139-3c1c12cd7fee",
@@ -334,6 +334,16 @@
       "ping": 11747.52
     },
     {
+      "id": "0df924cb-3ebb-43b1-af36-df896f31cc16",
+      "name": "Canada 6",
+      "flag": "CA",
+      "uri": "vmess://ewogICAgImFkZCI6ICJibm1qLndjNi5jY3d1LmNjIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYm5tai53YzYuY2N3dS5jYyIsCiAgICAiaWQiOiAiMTc5OGIxNGItYWVlMC00MDA4LWJhOWEtMmU1Mzg3Nzc2MWI0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2tGSzlPNWNsOFp5Y3lyeGNKV05WRkMyMSIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuMjExLjc1LTA4MjQiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==",
+      "protocol": "VMESS",
+      "premium": false,
+      "speed": 0.3,
+      "ping": 7900.51
+    },
+    {
       "id": "f1b1ba16-e0a2-4d41-94fc-cd46f10f56c5",
       "name": "United States 2",
       "flag": "US",
@@ -392,6 +402,16 @@
       "premium": false,
       "speed": 0.16,
       "ping": 2230.87
+    },
+    {
+      "id": "6fdeb5af-8085-41eb-b3ee-c4ad539e7008",
+      "name": "Hong Kong 3",
+      "flag": "HK",
+      "uri": "vmess://ewogICAgImFkZCI6ICI0Ny4yNDMuMTM1Ljc0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIxMzc1OTg1ZS0zMzRhLTRjMjUtOGY2NC01MmExODJiYzgwMzciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvTm90aWZfQ2hhdCIsCiAgICAicG9ydCI6IDU1MTg1LAogICAgInBzIjogIvCfh63wn4ewSEstNDcuMjQzLjEzNS43NC00Nzc5IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=",
+      "protocol": "VMESS",
+      "premium": false,
+      "speed": 0.15,
+      "ping": 2352.23
     },
     {
       "id": "0dbc71a8-9bdf-4777-b8c9-63142ea91150",
@@ -482,6 +502,16 @@
       "premium": false,
       "speed": 0,
       "ping": 2284.56
+    },
+    {
+      "id": "a72b5760-aea0-4e2e-a1e4-8ec9ac93d707",
+      "name": "Japan 4",
+      "flag": "JP",
+      "uri": "trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.65.107:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.65.107-0257",
+      "protocol": "TROJAN",
+      "premium": false,
+      "speed": 0,
+      "ping": 2979.43
     },
     {
       "id": "c2dc4eed-90ff-41a4-a6aa-ce5c99d43bd6",
