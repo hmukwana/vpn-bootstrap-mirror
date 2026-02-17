@@ -1,7 +1,7 @@
 {
-  "updated_at": 1771263954216,
-  "updated_iso": "2026-02-16T20:45:54.216355",
-  "count": 43,
+  "updated_at": 1771317048477,
+  "updated_iso": "2026-02-17T11:30:48.477251",
+  "count": 42,
   "servers": [
     {
       "id": "591bb4fc-57fd-4db2-9fae-392483778db9",
@@ -10,48 +10,58 @@
       "uri": "vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?allowInsecure=0&sni=nl-90w-c.southnetworks.cloud&type=ws&host=nl-90w-c.southnetworks.cloud&path=/getWorkerUpdates#RU_speednode_0066",
       "protocol": "VLESS",
       "premium": false,
-      "speed": 1.21,
-      "ping": 1219.52
+      "speed": 2.92,
+      "ping": 1011.09
     },
     {
-      "id": "d5b9e1a8-8518-45d8-9ef3-de32690068e5",
-      "name": "United States 7",
+      "id": "5805fd7a-bfea-4a55-85fa-5ddfc5ff5d41",
+      "name": "United States 4",
       "flag": "US",
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8%20SS-%E7%BE%8E%E5%9B%BD-NF%E8%A7%A3%E9%94%81%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-pupas-shirting-unsung.freesocks.work%3A443",
+      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.148.238:2096?allowInsecure=0&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560fp=chrome&security=tls#US_speednode_0031",
+      "protocol": "VLESS",
+      "premium": false,
+      "speed": 1.03,
+      "ping": 1026.98
+    },
+    {
+      "id": "f1b1ba16-e0a2-4d41-94fc-cd46f10f56c5",
+      "name": "United States 2",
+      "flag": "US",
+      "uri": "vmess://ewogICAgImFkZCI6ICIyMDkuMTI2Ljg0LjE4OSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjIwOS4xMjYuODQuMTg5IiwKICAgICJpZCI6ICIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3N3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e68J+HuFVTLTIwOS4xMjYuODQuMTg5LTA3OTkiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==",
+      "protocol": "VMESS",
+      "premium": false,
+      "speed": 0.96,
+      "ping": 1379.72
+    },
+    {
+      "id": "9837f109-1f4f-4316-8863-dc6e4e0b614c",
+      "name": "Iceland 1",
+      "flag": "IS",
+      "uri": "trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.209-0260",
+      "protocol": "TROJAN",
+      "premium": false,
+      "speed": 0.61,
+      "ping": 1988.65
+    },
+    {
+      "id": "2c946827-9c2e-44ee-90c8-9a045ea0244d",
+      "name": "Finland Premium",
+      "flag": "FI",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790#%E4%BC%8A%E6%8B%89%E5%85%8B%20V2CROSS.COM",
       "protocol": "SS",
       "premium": false,
-      "speed": 0.6,
-      "ping": 1049.76
+      "speed": 0.55,
+      "ping": 1076.5
     },
     {
-      "id": "452c2a1c-606f-40f0-82e4-e83556004c2d",
-      "name": "Canada 2",
-      "flag": "CA",
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.154.204.7:990#%F0%9F%87%A6%F0%9F%87%BF%20SS-%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86-NF%E8%A7%A3%E9%94%81%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%9C%B0%E5%8C%BA%E9%9D%9E%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-45.154.204.7%3A990",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 0.54,
-      "ping": 881.8
-    },
-    {
-      "id": "91508fb2-16c3-4f43-bbb7-6bce2e842a6d",
-      "name": "United States 15",
+      "id": "d9e662e7-9414-4fa4-8d43-159b4cee5244",
+      "name": "United States 5",
       "flag": "US",
-      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.238:2096?allowInsecure=0&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560fp=chrome&security=tls#US_speednode_0049",
+      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.238:2096?allowInsecure=0&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560fp=chrome&security=tls#NL_speednode_0010",
       "protocol": "VLESS",
       "premium": false,
       "speed": 0.53,
-      "ping": 1125.09
-    },
-    {
-      "id": "500555b7-684d-48b1-b006-02182f1c78a9",
-      "name": "Spain Standard",
-      "flag": "ES",
-      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.251.81.238:2096?allowInsecure=0&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560fp=chrome&security=tls#ES_speednode_0005",
-      "protocol": "VLESS",
-      "premium": false,
-      "speed": 0.52,
-      "ping": 1436.57
+      "ping": 1069.48
     },
     {
       "id": "5b9f0b9b-d7a1-4ca4-b1f4-3eb5d2c428b5",
@@ -61,7 +71,27 @@
       "protocol": "VLESS",
       "premium": false,
       "speed": 0.51,
-      "ping": 1423.82
+      "ping": 963.45
+    },
+    {
+      "id": "9e994d25-424d-4968-9cdd-606a6c758d3f",
+      "name": "Canada 41",
+      "flag": "CA",
+      "uri": "vmess://ewogICAgImFkZCI6ICJ0dXJrMS5uZXQubmV0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAidHIxLXNtYXJ0LmFkZWxwaW5nLmNvbS4iLAogICAgImlkIjogIjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8/QklBX1RFTEVHUkFNQEFaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxLz9kZT0yNTYwIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yNi4xNC4xMzctMDU1NiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9",
+      "protocol": "VMESS",
+      "premium": false,
+      "speed": 0.51,
+      "ping": 1971.13
+    },
+    {
+      "id": "af4244bf-3ab4-4611-b588-91475a04ae29",
+      "name": "Costa Rica Pro",
+      "flag": "CR",
+      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?allowInsecure=0&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560fp=chrome&security=tls#CR_speednode_0002",
+      "protocol": "VLESS",
+      "premium": false,
+      "speed": 0.51,
+      "ping": 1029.43
     },
     {
       "id": "22a22af8-a4fb-4992-90cc-2c4cb80994a4",
@@ -71,47 +101,7 @@
       "protocol": "SS",
       "premium": false,
       "speed": 0.45,
-      "ping": 1569.51
-    },
-    {
-      "id": "95ae68d6-0b2d-49ca-9602-cdde583fed70",
-      "name": "Canada 43",
-      "flag": "CA",
-      "uri": "vless://26524cce-d514-4014-a426-365fb266a14d@bestcf.030101.xyz:2053?allowInsecure=0&sni=snippet.fgfw.eu.org&type=ws&host=snippet.fgfw.eu.org&path=/danfeng?ed=2560fp=chrome&security=tls#US_speednode_0049",
-      "protocol": "VLESS",
-      "premium": false,
-      "speed": 0.44,
-      "ping": 2171.64
-    },
-    {
-      "id": "7fcf021c-ef65-43d0-b1f0-2769d7e998b6",
-      "name": "United States 10",
-      "flag": "US",
-      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.118:443?allowInsecure=0&sni=sni.111000.dynv6.net&type=ws&host=sni.111000.dynv6.net&path=/?ed=2560fp=chrome&security=tls#US_speednode_0054",
-      "protocol": "VLESS",
-      "premium": false,
-      "speed": 0.43,
-      "ping": 1582.12
-    },
-    {
-      "id": "9837f109-1f4f-4316-8863-dc6e4e0b614c",
-      "name": "Iceland 1",
-      "flag": "IS",
-      "uri": "trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.209-0260",
-      "protocol": "TROJAN",
-      "premium": false,
-      "speed": 0.43,
-      "ping": 4238.05
-    },
-    {
-      "id": "d9e662e7-9414-4fa4-8d43-159b4cee5244",
-      "name": "United States 5",
-      "flag": "US",
-      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.238:2096?allowInsecure=0&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560fp=chrome&security=tls#NL_speednode_0010",
-      "protocol": "VLESS",
-      "premium": false,
-      "speed": 0.43,
-      "ping": 1294.3
+      "ping": 1470.36
     },
     {
       "id": "0df924cb-3ebb-43b1-af36-df896f31cc16",
@@ -121,7 +111,7 @@
       "protocol": "VMESS",
       "premium": false,
       "speed": 0.41,
-      "ping": 1699.72
+      "ping": 2140.42
     },
     {
       "id": "2fb01d0d-a04a-42f5-8a47-8d2003a0f9d8",
@@ -131,17 +121,27 @@
       "protocol": "VMESS",
       "premium": false,
       "speed": 0.4,
-      "ping": 1956.43
+      "ping": 2271.88
     },
     {
-      "id": "eaa3971b-0e14-412f-ba9b-f85d2e8bbc84",
-      "name": "Germany 8",
-      "flag": "DE",
-      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.53.131.209:8443?allowInsecure=0&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560fp=chrome&security=tls#AT_speednode_0003",
+      "id": "6fea9a92-6f81-432e-b5f4-44a2ba3b2c01",
+      "name": "France 5",
+      "flag": "FR",
+      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.182.98.38:8443?allowInsecure=0&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560fp=chrome&security=tls#FR_speednode_0020",
       "protocol": "VLESS",
       "premium": false,
+      "speed": 0.39,
+      "ping": 1379.74
+    },
+    {
+      "id": "d5b9e1a8-8518-45d8-9ef3-de32690068e5",
+      "name": "United States 7",
+      "flag": "US",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8%20SS-%E7%BE%8E%E5%9B%BD-NF%E8%A7%A3%E9%94%81%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-pupas-shirting-unsung.freesocks.work%3A443",
+      "protocol": "SS",
+      "premium": false,
       "speed": 0.38,
-      "ping": 1392.9
+      "ping": 1114.68
     },
     {
       "id": "56f30055-3add-47d7-806e-6117c174594b",
@@ -151,47 +151,47 @@
       "protocol": "VLESS",
       "premium": false,
       "speed": 0.36,
-      "ping": 2062.95
+      "ping": 1401.8
     },
     {
-      "id": "5805fd7a-bfea-4a55-85fa-5ddfc5ff5d41",
-      "name": "United States 4",
+      "id": "b04fdcf1-50d5-4d7e-9a5d-6fdc6f9b357e",
+      "name": "United States 6",
       "flag": "US",
-      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.148.238:2096?allowInsecure=0&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560fp=chrome&security=tls#US_speednode_0031",
-      "protocol": "VLESS",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#%F0%9F%87%BA%F0%9F%87%B8%20SS-%E7%BE%8E%E5%9B%BD-NF%E8%A7%A3%E9%94%81%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-71.19.148.143%3A443",
+      "protocol": "SS",
       "premium": false,
-      "speed": 0.35,
-      "ping": 912.56
+      "speed": 0.36,
+      "ping": 890.73
     },
     {
-      "id": "898e3843-daf1-4df4-a0d8-dad1b8ed492c",
-      "name": "France 8",
-      "flag": "FR",
-      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.130.207.158:8443?allowInsecure=0&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560fp=chrome&security=tls#FR_speednode_0017",
-      "protocol": "VLESS",
-      "premium": false,
-      "speed": 0.34,
-      "ping": 7051.87
-    },
-    {
-      "id": "448758da-291d-40fa-bf8e-76d7c7fa5fd8",
-      "name": "United States 4",
+      "id": "c0d9f4e3-bf82-4e99-b015-0e90d1d9224a",
+      "name": "United States 6",
       "flag": "US",
-      "uri": "vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVPnvo7lm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6IjgyLjE5OC4yNDYuOTciLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL1JrVVVicWhBOUdKWkJST2pMM1E1dlR5bXIiLCJob3N0IjoiZERkRmZHVEhZVS45MjI5MjIuU0hPUCIsInRscyI6IiJ9",
+      "uri": "vmess://ewogICAgImFkZCI6ICIyMDkuMTI2Ljg0LjE4OSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjIwOS4xMjYuODQuMTg5IiwKICAgICJpZCI6ICIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3N3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e68J+HuFVTLTIwOS4xMjYuODQuMTg5LTA4MzgiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==",
       "protocol": "VMESS",
       "premium": false,
       "speed": 0.33,
-      "ping": 1903.39
+      "ping": 1779.41
     },
     {
-      "id": "88dcadc5-46e5-4225-81df-db1b63ecb7c8",
-      "name": "France 1",
-      "flag": "FR",
-      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.131.9.202:443?allowInsecure=0&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560fp=chrome&security=tls#FR_speednode_0006",
+      "id": "7496f7a1-454a-4091-a139-3c1c12cd7fee",
+      "name": "Iceland Fast",
+      "flag": "IS",
+      "uri": "trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.209-0295",
+      "protocol": "TROJAN",
+      "premium": false,
+      "speed": 0.32,
+      "ping": 2538.88
+    },
+    {
+      "id": "95ae68d6-0b2d-49ca-9602-cdde583fed70",
+      "name": "Canada 43",
+      "flag": "CA",
+      "uri": "vless://26524cce-d514-4014-a426-365fb266a14d@bestcf.030101.xyz:2053?allowInsecure=0&sni=snippet.fgfw.eu.org&type=ws&host=snippet.fgfw.eu.org&path=/danfeng?ed=2560fp=chrome&security=tls#US_speednode_0049",
       "protocol": "VLESS",
       "premium": false,
-      "speed": 0.33,
-      "ping": 1234.18
+      "speed": 0.31,
+      "ping": 1440.35
     },
     {
       "id": "07d076cd-6481-4649-ba6e-4a9aba2510f9",
@@ -201,7 +201,7 @@
       "protocol": "VLESS",
       "premium": false,
       "speed": 0.3,
-      "ping": 1928.08
+      "ping": 1751.64
     },
     {
       "id": "3c998a9c-63b2-4074-9b85-c00179486300",
@@ -211,27 +211,27 @@
       "protocol": "VMESS",
       "premium": false,
       "speed": 0.29,
-      "ping": 1626.15
+      "ping": 1978.25
     },
     {
-      "id": "7496f7a1-454a-4091-a139-3c1c12cd7fee",
-      "name": "Iceland Fast",
-      "flag": "IS",
-      "uri": "trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.209-0295",
-      "protocol": "TROJAN",
+      "id": "500555b7-684d-48b1-b006-02182f1c78a9",
+      "name": "Spain Standard",
+      "flag": "ES",
+      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.251.81.238:2096?allowInsecure=0&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560fp=chrome&security=tls#ES_speednode_0005",
+      "protocol": "VLESS",
       "premium": false,
       "speed": 0.29,
-      "ping": 3406.0
+      "ping": 1347.43
     },
     {
-      "id": "9e994d25-424d-4968-9cdd-606a6c758d3f",
-      "name": "Canada 41",
-      "flag": "CA",
-      "uri": "vmess://ewogICAgImFkZCI6ICJ0dXJrMS5uZXQubmV0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAidHIxLXNtYXJ0LmFkZWxwaW5nLmNvbS4iLAogICAgImlkIjogIjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8/QklBX1RFTEVHUkFNQEFaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxLz9kZT0yNTYwIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yNi4xNC4xMzctMDU1NiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9",
-      "protocol": "VMESS",
+      "id": "eaa3971b-0e14-412f-ba9b-f85d2e8bbc84",
+      "name": "Germany 8",
+      "flag": "DE",
+      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.53.131.209:8443?allowInsecure=0&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560fp=chrome&security=tls#AT_speednode_0003",
+      "protocol": "VLESS",
       "premium": false,
-      "speed": 0.25,
-      "ping": 5187.81
+      "speed": 0.28,
+      "ping": 1785.44
     },
     {
       "id": "6e551d63-cba5-4b22-80a3-41b54745fe39",
@@ -241,37 +241,27 @@
       "protocol": "VLESS",
       "premium": false,
       "speed": 0.24,
-      "ping": 1549.68
+      "ping": 973.44
     },
     {
-      "id": "6fea9a92-6f81-432e-b5f4-44a2ba3b2c01",
-      "name": "France 5",
+      "id": "898e3843-daf1-4df4-a0d8-dad1b8ed492c",
+      "name": "France 8",
       "flag": "FR",
-      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.182.98.38:8443?allowInsecure=0&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560fp=chrome&security=tls#FR_speednode_0020",
+      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.130.207.158:8443?allowInsecure=0&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560fp=chrome&security=tls#FR_speednode_0017",
       "protocol": "VLESS",
       "premium": false,
-      "speed": 0.23,
-      "ping": 9305.7
+      "speed": 0.22,
+      "ping": 3021.98
     },
     {
-      "id": "b04fdcf1-50d5-4d7e-9a5d-6fdc6f9b357e",
-      "name": "United States 6",
+      "id": "91508fb2-16c3-4f43-bbb7-6bce2e842a6d",
+      "name": "United States 15",
       "flag": "US",
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#%F0%9F%87%BA%F0%9F%87%B8%20SS-%E7%BE%8E%E5%9B%BD-NF%E8%A7%A3%E9%94%81%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-71.19.148.143%3A443",
-      "protocol": "SS",
+      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.238:2096?allowInsecure=0&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560fp=chrome&security=tls#US_speednode_0049",
+      "protocol": "VLESS",
       "premium": false,
-      "speed": 0.23,
-      "ping": 1286.34
-    },
-    {
-      "id": "f1b1ba16-e0a2-4d41-94fc-cd46f10f56c5",
-      "name": "United States 2",
-      "flag": "US",
-      "uri": "vmess://ewogICAgImFkZCI6ICIyMDkuMTI2Ljg0LjE4OSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjIwOS4xMjYuODQuMTg5IiwKICAgICJpZCI6ICIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3N3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e68J+HuFVTLTIwOS4xMjYuODQuMTg5LTA3OTkiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==",
-      "protocol": "VMESS",
-      "premium": false,
-      "speed": 0.23,
-      "ping": 2067.81
+      "speed": 0.22,
+      "ping": 1166.0
     },
     {
       "id": "a72b5760-aea0-4e2e-a1e4-8ec9ac93d707",
@@ -281,27 +271,17 @@
       "protocol": "TROJAN",
       "premium": false,
       "speed": 0.21,
-      "ping": 2101.75
+      "ping": 2053.4
     },
     {
-      "id": "af4244bf-3ab4-4611-b588-91475a04ae29",
-      "name": "Costa Rica Pro",
-      "flag": "CR",
-      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?allowInsecure=0&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560fp=chrome&security=tls#CR_speednode_0002",
-      "protocol": "VLESS",
-      "premium": false,
-      "speed": 0.18,
-      "ping": 1132.88
-    },
-    {
-      "id": "c2dc4eed-90ff-41a4-a6aa-ce5c99d43bd6",
-      "name": "Japan 3",
+      "id": "0dbc71a8-9bdf-4777-b8c9-63142ea91150",
+      "name": "Japan 2",
       "flag": "JP",
-      "uri": "trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.236.32:1281?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode",
+      "uri": "trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.117.182:193?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode",
       "protocol": "TROJAN",
       "premium": false,
       "speed": 0.18,
-      "ping": 1981.39
+      "ping": 2226.19
     },
     {
       "id": "27134314-0c64-41ca-88af-35e646e21cd9",
@@ -311,17 +291,37 @@
       "protocol": "TROJAN",
       "premium": false,
       "speed": 0.16,
-      "ping": 4949.28
+      "ping": 2910.55
     },
     {
-      "id": "0dbc71a8-9bdf-4777-b8c9-63142ea91150",
-      "name": "Japan 2",
+      "id": "c2dc4eed-90ff-41a4-a6aa-ce5c99d43bd6",
+      "name": "Japan 3",
       "flag": "JP",
-      "uri": "trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.117.182:193?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode",
+      "uri": "trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.236.32:1281?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode",
       "protocol": "TROJAN",
       "premium": false,
+      "speed": 0.16,
+      "ping": 2417.03
+    },
+    {
+      "id": "daf11a6f-cae2-43cf-b37b-5950c4af3fdd",
+      "name": "Hong Kong 3",
+      "flag": "HK",
+      "uri": "vmess://ewogICAgImFkZCI6ICI0Ny4yNDQuMTIwLjE5NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDM2NzAzLAogICAgInBzIjogIvCfh63wn4ewSEstNDcuMjQ0LjEyMC4xOTctNDkxMiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9",
+      "protocol": "VMESS",
+      "premium": false,
+      "speed": 0.16,
+      "ping": 3029.22
+    },
+    {
+      "id": "88dcadc5-46e5-4225-81df-db1b63ecb7c8",
+      "name": "France 1",
+      "flag": "FR",
+      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.131.9.202:443?allowInsecure=0&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560fp=chrome&security=tls#FR_speednode_0006",
+      "protocol": "VLESS",
+      "premium": false,
       "speed": 0.15,
-      "ping": 2450.34
+      "ping": 1326.83
     },
     {
       "id": "332143ed-1e84-4a26-ab9d-94f5a15fb8b6",
@@ -331,7 +331,7 @@
       "protocol": "TROJAN",
       "premium": false,
       "speed": 0.14,
-      "ping": 2841.41
+      "ping": 2471.87
     },
     {
       "id": "442af912-31ab-4149-a7e8-acc13974da4b",
@@ -341,7 +341,17 @@
       "protocol": "VMESS",
       "premium": false,
       "speed": 0.14,
-      "ping": 4732.65
+      "ping": 3023.98
+    },
+    {
+      "id": "452c2a1c-606f-40f0-82e4-e83556004c2d",
+      "name": "Canada 2",
+      "flag": "CA",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.154.204.7:990#%F0%9F%87%A6%F0%9F%87%BF%20SS-%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86-NF%E8%A7%A3%E9%94%81%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%9C%B0%E5%8C%BA%E9%9D%9E%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-45.154.204.7%3A990",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 0.14,
+      "ping": 1188.55
     },
     {
       "id": "6d2dc762-9e82-40ad-a592-1c7f58be244e",
@@ -351,7 +361,7 @@
       "protocol": "VMESS",
       "premium": false,
       "speed": 0.13,
-      "ping": 2730.06
+      "ping": 13538.49
     },
     {
       "id": "8606e81f-0106-4c8c-944f-ee32ba2111e7",
@@ -361,7 +371,7 @@
       "protocol": "TROJAN",
       "premium": false,
       "speed": 0.13,
-      "ping": 2323.87
+      "ping": 2102.12
     },
     {
       "id": "1b025621-225e-4db1-be79-7caf9b42c2bb",
@@ -371,7 +381,7 @@
       "protocol": "VMESS",
       "premium": false,
       "speed": 0,
-      "ping": 3129.29
+      "ping": 3602.76
     },
     {
       "id": "8757413a-dbf9-4bd1-93c2-d6db7f81ae98",
@@ -381,7 +391,7 @@
       "protocol": "VMESS",
       "premium": false,
       "speed": 0,
-      "ping": 5443.45
+      "ping": 8023.51
     },
     {
       "id": "a11cd666-06c9-429f-b738-8a06d93d3224",
@@ -391,7 +401,17 @@
       "protocol": "TROJAN",
       "premium": false,
       "speed": 0,
-      "ping": 2597.09
+      "ping": 2248.7
+    },
+    {
+      "id": "7fcf021c-ef65-43d0-b1f0-2769d7e998b6",
+      "name": "United States 10",
+      "flag": "US",
+      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.118:443?allowInsecure=0&sni=sni.111000.dynv6.net&type=ws&host=sni.111000.dynv6.net&path=/?ed=2560fp=chrome&security=tls#US_speednode_0054",
+      "protocol": "VLESS",
+      "premium": true,
+      "speed": 0.52,
+      "ping": 1009.65
     },
     {
       "id": "d13a7732-097c-4cb6-8be7-579b82fc87f8",
@@ -399,39 +419,9 @@
       "flag": "HK",
       "uri": "vmess://eyJ2IjogIjIiLCAicHMiOiAiSEs0N++9nOacuuaIv++9nOS9jumjjumZqSIsICJhZGQiOiAibjE3NjEyMTQ5MDYud3BnMjcueHl6IiwgInBvcnQiOiAiNDQzIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiYzI4YTYyNTgtN2JhYS00MGZjLThhNTEtODdmNTljODQ3Y2Q3IiwgInNuaSI6ICJuMTc2MTIxNDkwNi53cGcyNy54eXoiLCAiaG9zdCI6ICJuMTc2MTIxNDkwNi53cGcyNy54eXoiLCAicGF0aCI6ICIvIn0=",
       "protocol": "VMESS",
-      "premium": false,
+      "premium": true,
       "speed": 0,
-      "ping": 4905.72
-    },
-    {
-      "id": "c0d9f4e3-bf82-4e99-b015-0e90d1d9224a",
-      "name": "United States 6",
-      "flag": "US",
-      "uri": "vmess://ewogICAgImFkZCI6ICIyMDkuMTI2Ljg0LjE4OSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjIwOS4xMjYuODQuMTg5IiwKICAgICJpZCI6ICIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3N3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e68J+HuFVTLTIwOS4xMjYuODQuMTg5LTA4MzgiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==",
-      "protocol": "VMESS",
-      "premium": true,
-      "speed": 0.73,
-      "ping": 1085.78
-    },
-    {
-      "id": "2c946827-9c2e-44ee-90c8-9a045ea0244d",
-      "name": "Finland Premium",
-      "flag": "FI",
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790#%E4%BC%8A%E6%8B%89%E5%85%8B%20V2CROSS.COM",
-      "protocol": "SS",
-      "premium": true,
-      "speed": 0.55,
-      "ping": 1693.57
-    },
-    {
-      "id": "daf11a6f-cae2-43cf-b37b-5950c4af3fdd",
-      "name": "Hong Kong 3",
-      "flag": "HK",
-      "uri": "vmess://ewogICAgImFkZCI6ICI0Ny4yNDQuMTIwLjE5NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDM2NzAzLAogICAgInBzIjogIvCfh63wn4ewSEstNDcuMjQ0LjEyMC4xOTctNDkxMiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9",
-      "protocol": "VMESS",
-      "premium": true,
-      "speed": 0.16,
-      "ping": 2108.04
+      "ping": 7527.05
     }
   ]
 }
