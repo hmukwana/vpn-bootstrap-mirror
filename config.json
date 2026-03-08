@@ -1,9 +1,9 @@
 {
-  "updated_at": 1772716374886,
+  "updated_at": 1773011617170,
   "data": {
     "reward_hours": 2,
     "initial_hours": 2,
-    "interstitial_mode": false,
+    "interstitial_mode": true,
     "interstitial_probability": 100,
     "banner_enabled": false
   }
