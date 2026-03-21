@@ -1,7 +1,7 @@
 {
-  "updated_at": 1774119331315,
-  "updated_iso": "2026-03-21T21:55:31.315477",
-  "count": 42,
+  "updated_at": 1774120695546,
+  "updated_iso": "2026-03-21T22:18:15.546675",
+  "count": 39,
   "servers": [
     {
       "id": "b88a64d6-ed20-442b-9e76-ef249327ec2e",
@@ -94,16 +94,6 @@
       "ping": 3331.45
     },
     {
-      "id": "07d076cd-6481-4649-ba6e-4a9aba2510f9",
-      "name": "Sweden 1",
-      "flag": "SE",
-      "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.221.143.154:443?allowInsecure=0&sni=sni.111000.dynv6.net&type=ws&host=sni.111000.dynv6.net&path=/?ed=2560fp=chrome&security=tls#SE_speednode_0035",
-      "protocol": "VLESS",
-      "premium": false,
-      "speed": 0.5,
-      "ping": 5000.94
-    },
-    {
       "id": "923dc5b0-a992-4791-b2f4-bb8511cefae7",
       "name": "United States 5",
       "flag": "US",
@@ -194,16 +184,6 @@
       "ping": 1188.95
     },
     {
-      "id": "2cf9729f-8fd9-4517-a2a3-c5e307386e5d",
-      "name": "Lithuania Secure",
-      "flag": "LT",
-      "uri": "trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls#%F0%9F%87%B1%F0%9F%87%B9LT-195.66.25.251-0215",
-      "protocol": "TROJAN",
-      "premium": false,
-      "speed": 0.31,
-      "ping": 2234.04
-    },
-    {
       "id": "43f226c0-7d0a-4d04-8139-5e0dc5bec6b9",
       "name": "Canada 31",
       "flag": "CA",
@@ -232,16 +212,6 @@
       "premium": false,
       "speed": 0.23,
       "ping": 1356.43
-    },
-    {
-      "id": "591bb4fc-57fd-4db2-9fae-392483778db9",
-      "name": "Russia 8",
-      "flag": "RU",
-      "uri": "vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?allowInsecure=0&sni=nl-90w-c.southnetworks.cloud&type=ws&host=nl-90w-c.southnetworks.cloud&path=/getWorkerUpdates#RU_speednode_0066",
-      "protocol": "VLESS",
-      "premium": false,
-      "speed": 0.21,
-      "ping": 3145.1
     },
     {
       "id": "17ae046c-0655-47fd-b4ce-a3e4b4731f57",
