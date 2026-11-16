@@ -1,6 +1,6 @@
 {
-  "updated_at": 1794531990219,
-  "updated_iso": "2026-11-13T04:06:30.219229",
+  "updated_at": 1794791158006,
+  "updated_iso": "2026-11-16T04:05:58.006214",
   "count": 50,
   "servers": [
     {
@@ -10,308 +10,58 @@
       "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#%F0%9F%87%BA%F0%9F%87%B8US-66.163.122.7-0565",
       "protocol": "TROJAN",
       "premium": false,
-      "speed": 48.57,
-      "ping": 29.27
+      "speed": 89.0,
+      "ping": 34.63
     },
     {
-      "id": "dbb1afb8-e264-4c42-a458-fc8e438728e9",
+      "id": "845a1448-5a2e-4bf1-b6e2-6d04851c4b60",
       "name": "Canada 16",
       "flag": "CA",
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.79-0175",
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&sni=cdn.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.85-0604",
       "protocol": "TROJAN",
       "premium": false,
-      "speed": 28.72,
-      "ping": 113.34
+      "speed": 32.19,
+      "ping": 108.33
     },
     {
-      "id": "ce6caa2a-d563-4415-8f33-b8f079d4b27a",
-      "name": "Netherlands 5",
-      "flag": "NL",
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWVZxRkRuWW9NcXVSUXVuWEMxeGQyRnl1RGhkN0pXczVqdGYyZWI3VmtLTHpYZ1p2OHB0OGdZMWU5MVRUNzFWNzYyelJYN01XVzRIbWphdmFuWWRVRjliaWo4Z0c4QVA=@104.222.183.180:47195#%F0%9F%87%B3%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20ss-NL-1620...",
+      "id": "1a032422-03f1-4934-b0fe-3ea94c00ce08",
+      "name": "Canada 2",
+      "flag": "CA",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzVoaW9wcTJoMjh5YW82@15.235.121.109:8080#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20ss-CA-1555...",
       "protocol": "SS",
       "premium": false,
-      "speed": 9.12,
-      "ping": 343.15
+      "speed": 31.83,
+      "ping": 166.33
     },
     {
-      "id": "b1783971-4f40-4bab-be2e-b7942beb8402",
-      "name": "France 2",
-      "flag": "FR",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.27:19999#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20ss-FR-1615...%20%231",
+      "id": "538d7b26-a2de-438e-a86e-dc0d2a3051ed",
+      "name": "United Kingdom 2",
+      "flag": "GB",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@198.244.202.215:19999#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20ss-%20%236",
       "protocol": "SS",
       "premium": false,
-      "speed": 8.74,
-      "ping": 328.77
+      "speed": 9.33,
+      "ping": 320.06
     },
     {
-      "id": "96750e48-0fc7-4ffb-9275-b69d1198e92e",
-      "name": "Italy 6",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.50.215.234:19999#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20ss-%20%236",
-      "protocol": "SS",
+      "id": "f72cdd1c-44fb-4909-a10b-3459d3ea66b7",
+      "name": "Canada 10",
+      "flag": "CA",
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20trojan-%20%232",
+      "protocol": "TROJAN",
       "premium": false,
-      "speed": 7.75,
-      "ping": 406.97
+      "speed": 9.17,
+      "ping": 168.54
     },
     {
-      "id": "1ce019c3-994e-4369-9735-017390e199f1",
-      "name": "Italy 15",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9_IPV4%20(6)",
+      "id": "9f5fa3cd-cc3e-4cb4-8d24-de8ceab4a0ba",
+      "name": "Germany 4",
+      "flag": "DE",
+      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@47.254.143.251:443#%E5%BE%B7%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91",
       "protocol": "SS",
       "premium": false,
-      "speed": 7.63,
-      "ping": 399.15
-    },
-    {
-      "id": "d42dd3f0-8ada-459c-a54d-fce7ec7c531a",
-      "name": "France 3",
-      "flag": "FR",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@172.99.189.142:19999#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20ss-FR-1615...%20%232",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.63,
-      "ping": 338.82
-    },
-    {
-      "id": "f2d34914-1b66-479c-9a54-9910f5815f77",
-      "name": "Italy 5",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA%20%239",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.61,
-      "ping": 400.3
-    },
-    {
-      "id": "33110992-f4d7-4595-91ce-0dc0432bdea4",
-      "name": "Italy 11",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA%20%237",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.59,
-      "ping": 404.75
-    },
-    {
-      "id": "6c29a40f-ab0f-4b4d-b3d9-51636a7c7fb2",
-      "name": "Italy 7",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9_IPV4%20(7)",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.56,
-      "ping": 402.59
-    },
-    {
-      "id": "a8d799be-8ffc-457d-b6f1-ff7a782bcdb7",
-      "name": "Italy 14",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9_IPV4%20(8)",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.54,
-      "ping": 398.78
-    },
-    {
-      "id": "a29b1757-e6d7-44a7-bcc5-e0e5a631c254",
-      "name": "Italy 12",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9_IPV4%20(5)",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.53,
-      "ping": 399.45
-    },
-    {
-      "id": "45781ee4-717c-4bf4-bd58-567bd79513da",
-      "name": "Italy 16",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20ss-%20%237",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.52,
-      "ping": 397.61
-    },
-    {
-      "id": "9365407d-f2c3-4c51-a038-a4ff308a464b",
-      "name": "Italy 3",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA%20%236",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.49,
-      "ping": 412.03
-    },
-    {
-      "id": "08312eb9-0d2a-4110-a30b-33b9e053a35f",
-      "name": "Italy 1",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.48,
-      "ping": 399.48
-    },
-    {
-      "id": "5ea50513-2ec7-4fc7-b9f1-44084f1bf814",
-      "name": "Italy 8",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.48,
-      "ping": 398.99
-    },
-    {
-      "id": "0516c579-501b-448a-a62a-247e332434a2",
-      "name": "Italy 16",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA%20%234",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.46,
-      "ping": 411.03
-    },
-    {
-      "id": "bb8b9dd4-45bc-4d7e-9169-4ce813b5d5bc",
-      "name": "Italy 13",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA%20%238",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.4,
-      "ping": 430.29
-    },
-    {
-      "id": "94093c39-517c-44b0-a5ad-47df0d2b460c",
-      "name": "Italy 2",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9IT_5%7C1.1MB/s",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.38,
-      "ping": 411.89
-    },
-    {
-      "id": "ef9084bb-d9d2-48a9-a9cd-a6c49cd78ad5",
-      "name": "Italy 18",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.23,
-      "ping": 397.92
-    },
-    {
-      "id": "f001719a-9dd4-4998-a502-99de16da4218",
-      "name": "Italy 19",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA%20%231",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.2,
-      "ping": 399.92
-    },
-    {
-      "id": "4fd063ad-9448-4476-8413-ffb95361d24d",
-      "name": "Italy 17",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA%20%233",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.13,
-      "ping": 399.63
-    },
-    {
-      "id": "05d3c315-6e43-4ab9-9260-2667f0746289",
-      "name": "Switzerland 3",
-      "flag": "CH",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.184.104:19999#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20ss-CH-1615...%20%231",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.1,
-      "ping": 404.85
-    },
-    {
-      "id": "ec5e992c-1045-47a2-8508-c58316224b03",
-      "name": "Italy 9",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.08,
-      "ping": 409.37
-    },
-    {
-      "id": "9531bc92-ce0a-4833-9b3f-c61620c9b43c",
-      "name": "Italy 20",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA%20%232",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.07,
-      "ping": 397.84
-    },
-    {
-      "id": "b7c79114-c7b0-483e-b656-cca4876ffd6c",
-      "name": "Italy 10",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.05,
-      "ping": 399.52
-    },
-    {
-      "id": "060c9c45-545c-4feb-868b-923cd4441d0d",
-      "name": "Italy 6",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 7.02,
-      "ping": 406.29
-    },
-    {
-      "id": "1add7fa6-593b-4eda-a0af-8787628a58d1",
-      "name": "Italy 1",
-      "flag": "IT",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9_IPV4%20(9)",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 6.92,
-      "ping": 404.97
-    },
-    {
-      "id": "ff015efa-351d-46fa-a8a2-9010c1152448",
-      "name": "Italy 4",
-      "flag": "IT",
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 6.86,
-      "ping": 400.18
-    },
-    {
-      "id": "f06be810-74a8-4754-97c4-e22a049ed7d4",
-      "name": "Sweden 1",
-      "flag": "SE",
-      "uri": "ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw==@70.34.212.124:8388#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20ss-SE-1560...",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 6.78,
-      "ping": 397.0
-    },
-    {
-      "id": "0b2f442d-6064-40df-8761-0d08c936e55f",
-      "name": "Sweden 2",
-      "flag": "SE",
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZTU1NWU0NmRiYzQyMTQ1MjQxNjgzNDk2MmZkMDE0Zg==@62.182.193.228:8388#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20ss-SE-1620...",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 6.74,
-      "ping": 405.34
+      "speed": 8.26,
+      "ping": 359.08
     },
     {
       "id": "052751f4-a97e-420a-8818-85aff4ca9f2b",
@@ -320,68 +70,288 @@
       "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#%F0%9F%87%B3%F0%9F%87%B1NL_7%7C3.7MB/s",
       "protocol": "SS",
       "premium": false,
-      "speed": 4.72,
-      "ping": 338.53
+      "speed": 8.24,
+      "ping": 348.22
     },
     {
-      "id": "1b84ad86-20ea-4734-8999-f0d1b6cfc8be",
-      "name": "France 4",
+      "id": "abb0b81b-cb7d-452d-823a-445fb00fbca8",
+      "name": "France 2",
       "flag": "FR",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.175:19999#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20ss-FR-1615...%20%233",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MTlweTBhOGlwZ2xxa2Jl@51.77.144.182:8080#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20ss-%20%232",
       "protocol": "SS",
       "premium": false,
-      "speed": 4.61,
-      "ping": 329.28
+      "speed": 8.15,
+      "ping": 364.1
     },
     {
-      "id": "9d9cd8f5-ef4e-4762-af55-5af12973e865",
-      "name": "Japan 1",
-      "flag": "JP",
-      "uri": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20ss-JP-1291...",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 4.19,
-      "ping": 651.15
-    },
-    {
-      "id": "c5f86a7d-1403-45b2-97cc-f62ca9aaacaf",
+      "id": "2152aeae-e9d6-4deb-8ede-bb23145f2ba9",
       "name": "United States 2",
       "flag": "US",
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppam9Vd2Zkbmt6N21YNHBXZGtTcG1FaXhUWkN0MlRSbTFKRHI0QlNhQkFXa0x4WUdvWEJIWGFkRktZNUQ1WmZvVlR3cXN4NDZqQ21FVURuUVVpekpEWXJNN0I1YW5obnU=@23.230.52.119:42878#%F0%9F%87%BA%F0%9F%87%B8%5Bwww.v2nodes.com%5D%20ss-US-1620...",
+      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6M05Cc25CTGFuUGZHNmkzUzJHVEhpbmVzd3I2RWVTSlBiMFBDZU1Rb0dvQT0=@47.85.201.22:443#%F0%9F%87%A9%F0%9F%87%AADE_4%7C3.1MB/s",
       "protocol": "SS",
       "premium": false,
-      "speed": 3.43,
-      "ping": 324.44
+      "speed": 7.98,
+      "ping": 358.49
     },
     {
-      "id": "f9c8ac91-38b9-4864-b857-1e3119ba3c41",
-      "name": "Netherlands 2",
-      "flag": "NL",
-      "uri": "ss://YWVzLTI1Ni1nY206RkpvX1YtS012cmlEZWtOMENZa2ROSDBD@177.202.64.67:1080#%F0%9F%87%B3%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20ss-NL-1620...%20%231",
+      "id": "729172ff-4911-4d17-9ebe-58bfb4e711bb",
+      "name": "France 1",
+      "flag": "FR",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MTlweTBhOGlwZ2xxa2Jl@51.77.144.182:8080#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20ss-%20%234",
       "protocol": "SS",
       "premium": false,
-      "speed": 1.24,
-      "ping": 497.24
+      "speed": 7.94,
+      "ping": 370.82
     },
     {
-      "id": "dbdaa268-58e9-4983-b9f1-dc8b929aad21",
-      "name": "Albania Fast",
-      "flag": "AL",
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ==@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20ss-AL-1490...",
+      "id": "af5834bd-0386-485a-9bbe-c4bca4c10565",
+      "name": "Germany 3",
+      "flag": "DE",
+      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0=@47.254.169.3:443#%F0%9F%87%A9%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20ss-DE-1622...",
       "protocol": "SS",
       "premium": false,
-      "speed": 1.1,
-      "ping": 470.73
+      "speed": 7.67,
+      "ping": 365.02
     },
     {
-      "id": "68ef5844-9b7c-477b-b741-2a4489b8671e",
-      "name": "United States 15",
-      "flag": "US",
-      "uri": "vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@192.177.26.55:443?&security=reality&flow=xtls-rprx-vision&pbk=cC6kqzQ1mdCXyPey8xRXS7TQ1S4kF3nJW-h1ItJ4SH8&sid=bdaddda4cbc8c7bf&fp=chrome&sni=repo-16.topp-con.xyz&type=tcp&headerType=none&host=repo-16.topp-con.xyz&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA",
+      "id": "3e91a6ba-df9d-4427-a43a-d68722a31055",
+      "name": "Canada 3",
+      "flag": "CA",
+      "uri": "vless://a4a951b9-901d-4db8-8a7d-6df82c4b5c23@172.67.79.160:2087?allowInsecure=0&sni=cvhpyn.pages.dev&type=ws&host=cvhpyn.pages.dev&path=/fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-CA-1...%20%235",
       "protocol": "VLESS",
       "premium": false,
-      "speed": 0.94,
-      "ping": 1191.49
+      "speed": 7.66,
+      "ping": 173.88
+    },
+    {
+      "id": "b6fa9981-716e-4a44-bc68-1f6c17ac98ba",
+      "name": "Italy 10",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9IT_2%7C2.4MB/s",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 7.56,
+      "ping": 399.81
+    },
+    {
+      "id": "1bff930c-9ea4-4827-a398-ccf4596d3f97",
+      "name": "Italy 9",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20ss-%20%2311",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 7.48,
+      "ping": 402.9
+    },
+    {
+      "id": "0516c579-501b-448a-a62a-247e332434a2",
+      "name": "Italy 16",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA%20%234",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 7.43,
+      "ping": 407.9
+    },
+    {
+      "id": "060c9c45-545c-4feb-868b-923cd4441d0d",
+      "name": "Italy 6",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 7.41,
+      "ping": 420.66
+    },
+    {
+      "id": "c5e1216d-6dcd-45be-b16e-235c8c959cd9",
+      "name": "Italy 4",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20ss-IT-1619...%20%231",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 7.24,
+      "ping": 411.33
+    },
+    {
+      "id": "82c0fa40-c34c-4bf3-a3dc-581cc581f7da",
+      "name": "Italy 1",
+      "flag": "IT",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20ss-%20%2312",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 7.13,
+      "ping": 394.73
+    },
+    {
+      "id": "63b9463e-1ab0-4f5a-b840-a39ba415783a",
+      "name": "Italy 2",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9IT_4%7C1.4MB/s",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 7.12,
+      "ping": 407.25
+    },
+    {
+      "id": "716934c1-eab3-40f4-a5fd-e8c84c466b9f",
+      "name": "Italy 19",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA%20%238",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 7.09,
+      "ping": 400.68
+    },
+    {
+      "id": "4a8e711b-b33f-4c73-b282-f2b31edd3532",
+      "name": "Italy 6",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20ss-IT-1619...%20%234",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 7.08,
+      "ping": 404.94
+    },
+    {
+      "id": "e8553a48-cb89-45b1-8954-43bbccf0a5f6",
+      "name": "Italy 17",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9IT_3%7C1.4MB/s",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 7.08,
+      "ping": 402.91
+    },
+    {
+      "id": "28c8b0d8-582e-4c99-9b74-f32b18b4949e",
+      "name": "Italy 18",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9_IPV4%20(10)",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 7.06,
+      "ping": 402.35
+    },
+    {
+      "id": "6e6bb6a9-caac-4ffd-887b-c24e865b30d6",
+      "name": "Italy 16",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C2.6MB/s",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 7.01,
+      "ping": 399.26
+    },
+    {
+      "id": "c674129f-d60c-46ec-92da-2e1a7004c4f5",
+      "name": "Italy 14",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA%20%234",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 7.0,
+      "ping": 399.89
+    },
+    {
+      "id": "2e6cfed7-e095-437d-b429-a9e9d1939c35",
+      "name": "Italy 8",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9_IPV4%20(9)",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 6.98,
+      "ping": 401.96
+    },
+    {
+      "id": "97b6f376-2d44-4c82-b828-426bf46c45c7",
+      "name": "Italy 11",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20ss-IT-1619...%20%232",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 6.54,
+      "ping": 400.63
+    },
+    {
+      "id": "5f2d9740-aac1-4781-9e7b-a016cee53d4f",
+      "name": "Italy 15",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA%20%237",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 6.52,
+      "ping": 400.27
+    },
+    {
+      "id": "a7615543-f8ad-4983-8536-f888b17c4229",
+      "name": "United States 11",
+      "flag": "US",
+      "uri": "vless://a88d4614-2134-404c-9479-6aba1ca9cdfd@162.35.38.156:443?&security=reality&flow=xtls-rprx-vision&pbk=UkUbCx7k5ykWTJTr1jqCOxns6TwvTAbfR0JvJzuALjM&sid=a62b22480f962a1d&fp=firefox&sni=2499dbt.us12.h1clayd.click&type=tcp&headerType=none&host=2499dbt.us12.h1clayd.click&path=%2F#%E7%BE%8E%E5%9B%BD+V2CROSS.COM",
+      "protocol": "VLESS",
+      "premium": false,
+      "speed": 6.35,
+      "ping": 84.23
+    },
+    {
+      "id": "5147e95b-9484-470e-a302-1b76cefc0ecd",
+      "name": "Austria Secure",
+      "flag": "AT",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA==@152.53.1.57:8388#%F0%9F%87%A6%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20ss-AT-1614...",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 6.27,
+      "ping": 401.93
+    },
+    {
+      "id": "a914a165-c9ee-4b94-aec3-a449be85767e",
+      "name": "Finland Pro",
+      "flag": "FI",
+      "uri": "ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0=@213.176.92.148:40647#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20ss-FI-1621...",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 6.02,
+      "ping": 449.04
+    },
+    {
+      "id": "3c536de9-5c25-4990-82fc-a2b338f3a746",
+      "name": "Italy 5",
+      "flag": "IT",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080#%F0%9F%87%AE%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20ss-IT-1554...",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 5.0,
+      "ping": 390.5
+    },
+    {
+      "id": "98af9b64-2329-4207-b6ac-a1efb44be22c",
+      "name": "Italy 13",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA%20%233",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 4.0,
+      "ping": 400.92
+    },
+    {
+      "id": "05d3c315-6e43-4ab9-9260-2667f0746289",
+      "name": "Switzerland 3",
+      "flag": "CH",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.184.104:19999#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20ss-CH-1615...%20%231",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 3.75,
+      "ping": 407.95
+    },
+    {
+      "id": "514da315-309b-46dd-9da3-55c8ea8c2df3",
+      "name": "Japan 1",
+      "flag": "JP",
+      "uri": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20ss-%20%2316",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 3.18,
+      "ping": 482.79
     },
     {
       "id": "08da8f2d-578e-4519-b7d0-845e47c6484c",
@@ -390,38 +360,48 @@
       "uri": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%F0%9F%87%AC%F0%9F%87%A7%5Bwww.v2nodes.com%5D%20ss-GB-1247...",
       "protocol": "SS",
       "premium": false,
-      "speed": 0.63,
-      "ping": 1550.62
+      "speed": 2.92,
+      "ping": 4109.55
     },
     {
-      "id": "fd7d2a21-e1fb-4e70-bd8f-2e562952d3f0",
+      "id": "b78e39f8-2f80-4217-b44e-9b61e0980bb9",
+      "name": "Japan 2",
+      "flag": "JP",
+      "uri": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20ss-%20%2315",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 1.94,
+      "ping": 725.41
+    },
+    {
+      "id": "14571107-3723-455f-a986-20eaf1828388",
+      "name": "Netherlands 1",
+      "flag": "NL",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOVpaWFZhMzR4N3NDNDh3OUZLUTU0VUtIaUpKR1RWZ0tGcHBCUmd2aUxyVkNBWVZWeUtaZEQzb2JicGpDeWszMVY1YjJHMmQ3eHpxbWFQQkZkY2hlQ1ZCOVVRNFpnaEY=@156.67.120.205:51628#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20ss-%20%236",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 0.25,
+      "ping": 373.0
+    },
+    {
+      "id": "6991ca07-8c96-46b0-a161-92b86470c7dd",
+      "name": "Netherlands 3",
+      "flag": "NL",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOVpaWFZhMzR4N3NDNDh3OUZLUTU0VUtIaUpKR1RWZ0tGcHBCUmd2aUxyVkNBWVZWeUtaZEQzb2JicGpDeWszMVY1YjJHMmQ3eHpxbWFQQkZkY2hlQ1ZCOVVRNFpnaEY=@156.67.120.205:51628#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20ss-%20%2317",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 0.25,
+      "ping": 352.41
+    },
+    {
+      "id": "99408fdb-7136-4986-9143-13db0639aafa",
       "name": "Netherlands 4",
       "flag": "NL",
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOVpaWFZhMzR4N3NDNDh3OUZLUTU0VUtIaUpKR1RWZ0tGcHBCUmd2aUxyVkNBWVZWeUtaZEQzb2JicGpDeWszMVY1YjJHMmQ3eHpxbWFQQkZkY2hlQ1ZCOVVRNFpnaEY=@156.67.120.205:51628#%F0%9F%87%B3%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20ss-NL-1618...",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRWY4WDIxV0FMcUs3SDZOOEE3OGo1V1l0elo5OTlQUDhyRjhEYUxzYjVMTHlETFFwZjVkR1ZBamRBM21qMXd1ZGlnS1hUdDVoZVlVOWptYUJiZnhYQkpKQXFoUEhreGU=@194.87.233.93:46190#%F0%9F%87%B3%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20ss-NL-1622...",
       "protocol": "SS",
       "premium": false,
-      "speed": 0.52,
-      "ping": 428.46
-    },
-    {
-      "id": "90ed7f02-0705-4420-95fd-cd679dc2177c",
-      "name": "Canada Lite",
-      "flag": "CA",
-      "uri": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#%F0%9F%87%A8%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20ss-CA-1545...",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 0.39,
-      "ping": 1743.76
-    },
-    {
-      "id": "06a5bcdf-a183-408f-8f97-e224e45d0010",
-      "name": "Canada 1",
-      "flag": "CA",
-      "uri": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20ss-%20%233",
-      "protocol": "SS",
-      "premium": false,
-      "speed": 0.16,
-      "ping": 6857.6
+      "speed": 0.17,
+      "ping": 370.38
     },
     {
       "id": "06c51937-0509-4b50-bf1d-dab3696521bf",
@@ -431,77 +411,97 @@
       "protocol": "SS",
       "premium": false,
       "speed": 0.16,
-      "ping": 1645.72
+      "ping": 1893.11
     },
     {
-      "id": "d7abb708-bacb-4298-bfcd-a55b839dfa60",
+      "id": "b9e28dac-21a2-4a32-af91-6338ca4577e8",
+      "name": "Hong Kong Standard",
+      "flag": "HK",
+      "uri": "ss://YWVzLTI1Ni1nY206QU1vazQwRmZhTStJa3dyZTE2cHNCcFZrNkpIeHNRWnc=@209.248.57.105:8388#%F0%9F%87%AD%F0%9F%87%B0%5Bwww.v2nodes.com%5D%20ss-HK-1621...%20%231",
+      "protocol": "SS",
+      "premium": false,
+      "speed": 0.16,
+      "ping": 221.64
+    },
+    {
+      "id": "980d63b0-6d53-4b0a-9599-23b20e026c67",
       "name": "United Kingdom 1",
       "flag": "GB",
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4bnJwdDJpbDA0cHRjaTJq@54.37.240.40:8080#%F0%9F%87%AC%F0%9F%87%A7%5Bwww.v2nodes.com%5D%20ss-GB-1621...",
+      "uri": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20ss-%20%233",
       "protocol": "SS",
-      "premium": true,
-      "speed": 9.11,
-      "ping": 383.84
+      "premium": false,
+      "speed": 0,
+      "ping": 362.52
     },
     {
-      "id": "0dfcbe00-9ac0-4535-8c41-8605b5bda20e",
-      "name": "United Kingdom 2",
-      "flag": "GB",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@38.114.120.221:19999#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20ss-%20%234",
+      "id": "d09afe42-b5d0-448f-8939-54fe350a3cca",
+      "name": "Canada 5",
+      "flag": "CA",
+      "uri": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20ss-",
       "protocol": "SS",
       "premium": true,
-      "speed": 9.07,
-      "ping": 314.96
+      "speed": 11.87,
+      "ping": 62.99
     },
     {
-      "id": "56aa1f14-49b1-4d95-bd20-657ac532eb19",
-      "name": "France 1",
-      "flag": "FR",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.22:19999#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20ss-FR-1615...%20%234",
-      "protocol": "SS",
-      "premium": true,
-      "speed": 7.97,
-      "ping": 329.17
-    },
-    {
-      "id": "a3ac86c2-2124-47da-9b5d-838a825b6f87",
+      "id": "85f840f2-7c11-4ab9-b9ee-83cf8f84e0a7",
       "name": "Germany 2",
       "flag": "DE",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.108.119.2:19999#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20ss-%20%233",
+      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0=@47.254.175.2:443#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU%20%234",
       "protocol": "SS",
       "premium": true,
-      "speed": 7.87,
-      "ping": 357.29
+      "speed": 8.18,
+      "ping": 370.4
     },
     {
-      "id": "b5275c90-5ca3-4e8c-a5e1-934334f6500b",
+      "id": "525be983-691d-4e9b-b9ad-01b86e5318d8",
       "name": "Germany 1",
       "flag": "DE",
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.157.88.43:19999#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20ss-%20%232",
+      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0=@47.254.175.2:443#%E5%BE%B7%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91",
       "protocol": "SS",
       "premium": true,
-      "speed": 7.76,
-      "ping": 360.85
+      "speed": 7.77,
+      "ping": 371.13
     },
     {
-      "id": "1bfe7d8c-5e6c-498b-bdf6-4349068f9bef",
-      "name": "Austria Fast",
-      "flag": "AT",
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA==@152.53.1.57:8388#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20ss-",
+      "id": "08312eb9-0d2a-4110-a30b-33b9e053a35f",
+      "name": "Italy 1",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA",
       "protocol": "SS",
       "premium": true,
-      "speed": 6.44,
-      "ping": 391.89
+      "speed": 7.34,
+      "ping": 405.39
     },
     {
-      "id": "752b497b-7b5c-4709-a690-7ca6cd85fe85",
-      "name": "Russia 1",
-      "flag": "RU",
-      "uri": "ss://YWVzLTEyOC1nY206ODcyMmRlNTZiNmMwYjNmNmE0ZDAxY2Y5MWMwN2U2YWE=@38.60.223.125:13108#%F0%9F%87%B7%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20ss-RU-1617...",
+      "id": "824bc814-3947-4ae8-89d7-93a36ce4d8b6",
+      "name": "Italy 3",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA%20%235",
       "protocol": "SS",
       "premium": true,
-      "speed": 5.54,
-      "ping": 521.58
+      "speed": 7.05,
+      "ping": 407.52
+    },
+    {
+      "id": "06c75820-bdd6-4235-a46e-d5aae097ca65",
+      "name": "Italy 12",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA%20%232",
+      "protocol": "SS",
+      "premium": true,
+      "speed": 7.03,
+      "ping": 403.87
+    },
+    {
+      "id": "1de4b048-da12-4842-a9ff-8ae931fd56ea",
+      "name": "Italy 7",
+      "flag": "IT",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20ss-IT-1619...%20%236",
+      "protocol": "SS",
+      "premium": true,
+      "speed": 6.98,
+      "ping": 412.63
     }
   ]
 }
